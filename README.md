@@ -9,9 +9,16 @@ I am a Graduate Student at Stevens Institute of Technology based in Jersey City,
 
 ### :fire: My Stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Priyankthakur3&theme=material-palenight)](https://git.io/streak-stats)
 
-![Priyank's Github Stats](https://github-readme-stats.vercel.app/api?username=PriyankThakur3&show_icons=true&theme=radical)
+
+<p align="center">
+<a href="https://github.com/smir45">
+  <img height="180em" src="https://streak-stats.demolab.com?user=Priyankthakur3&theme=material-palenight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PriyankThakur3&show_icons=true&theme=radical" />
+</a>
+</p>
+
+
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/priyankthakur3?theme=dark&font=Ubuntu)
 
