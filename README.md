@@ -14,8 +14,8 @@ Experienced data engineer and full-stack developer, holding a Master's in Comput
 
 <p align="center">
 <div style="display: flex; justify-content: space-between;">
-    <img height="260em" width="50%" src="https://streak-stats.demolab.com?user=Priyankthakur3&theme=material-palenight" alt="Github Streak Stats"/>
-    <img height="250em" width="50%" src="https://github-readme-stats.vercel.app/api?username=PriyankThakur3&show_icons=true&theme=material-palenight" alt="Github Stats" />
+    <img height="260em" width="45%" src="https://streak-stats.demolab.com?user=Priyankthakur3&theme=material-palenight" alt="Github Streak Stats"/>
+    <img height="250em" width="45%" src="https://github-readme-stats.vercel.app/api?username=PriyankThakur3&show_icons=true&theme=material-palenight" alt="Github Stats" />
 </div>
 </p>
 
