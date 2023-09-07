@@ -10,11 +10,13 @@ Experienced data engineer and full-stack developer, holding a Master's in Comput
  - 🌱 Committed to innovation and continuous learning, dedicated to optimizing processes and staying at tech's forefront.
  - 🤝 Strong collaborator, seamlessly integrating technical expertise into versatile solutions for enriched user experiences.
 
-### :fire: My Contribution Strea:
+### :fire: My Contribution Streak:
 
 <p align="center">
-    <img height="200em" src="https://streak-stats.demolab.com?user=Priyankthakur3&theme=material-palenight" alt="Github Streak Stats"/>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=PriyankThakur3&show_icons=true&theme=radical" alt="Github Stats" />
+<div style="display: flex; justify-content: space-between;">
+    <img width="45%" height="200em" src="https://streak-stats.demolab.com?user=Priyankthakur3&theme=material-palenight" alt="Github Streak Stats"/>
+    <img width="45%" height="200em" src="https://github-readme-stats.vercel.app/api?username=PriyankThakur3&show_icons=true&theme=material-palenight" alt="Github Stats" />
+</div>
 </p>
 
 <p align="center">
