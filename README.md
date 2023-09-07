@@ -1,19 +1,39 @@
 # Hey there! I'm Priyank Thakur
 
-I am a Graduate Student at Stevens Institute of Technology based in Jersey City, NJ. Here's a quick overview of me
+Experienced data engineer and full-stack developer, holding a Master's in Computer Engineering. Proficient in designing, optimizing, and implementing scalable data pipelines. Skilled in Express.js, React.js, Django, Spring Boot, Teradata and MongoDB. Adept at problem-solving and committed to delivering high-quality solutions. Here's a quick overview of me
 
 ### :technologist: About me:
 
- - Passionate Data Engineer & Full-Stack Developer
- - Bridging the gap between engineering and science, I bring a holistic approach to problem-solving and data-driven decision making
+ - 🚀 Versatile engineer skilled in crafting robust data pipelines and architecting seamless user experiences.
+ - 📊 Proficient in distilling insights from complex datasets and engineering intuitive UI/UX designs.
+ - 🌐 Bridging the gap between data and full-stack development, I approach challenges with a holistic mindset.
+ - 🌱 Committed to innovation and continuous learning, dedicated to optimizing processes and staying at tech's forefront.
+ - 🤝 Strong collaborator, seamlessly integrating technical expertise into versatile solutions for enriched user experiences.
 
-### :fire: My Stats:
+### :fire: My Contribution Streak:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Priyankthakur3&theme=material-palenight)](https://git.io/streak-stats)
+<p align="center">
+<div style="display: flex; justify-content: space-between;">
+    <img height="260em" width="45%" src="https://streak-stats.demolab.com?user=Priyankthakur3&theme=material-palenight" alt="Github Streak Stats"/>
+    <img height="250em" width="45%" src="https://github-readme-stats.vercel.app/api?username=PriyankThakur3&show_icons=true&theme=material-palenight" alt="Github Stats" />
+</div>
+</p>
 
-![Priyank's Github Stats](https://github-readme-stats.vercel.app/api?username=PriyankThakur3&show_icons=true&theme=radical)
+<p align="center">
+    <img height="250em" src="https://leetcard.jacoblin.cool/priyankthakur3?theme=dark&font=Ubuntu" alt="LeetCode Stats" />
+</p>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/priyankthakur3?theme=dark&font=Ubuntu)
+### :mortar_board: Education:
+ - Stevens Institute of Technology (GPA: 3.67)
+   - Hoboken, NJ
+   - Master of Engineering in Computer Engineering
+   - Jan 2022 - Dec 2023
+  
+ - Mumbai University (CGPA: 7.02)
+   - Mumbai, India
+   - Bachleor of Engineering in Computer Engineering
+   - Aug 2014 - May 2018
+
 
 ### :telephone_receiver: Contact Me:
 
