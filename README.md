@@ -14,13 +14,13 @@ Experienced data engineer and full-stack developer, holding a Master's in Comput
 
 <p align="center">
 <div style="display: flex; justify-content: space-between;">
-    <img width="45%" height="200em" src="https://streak-stats.demolab.com?user=Priyankthakur3&theme=material-palenight" alt="Github Streak Stats"/>
-    <img width="45%" height="200em" src="https://github-readme-stats.vercel.app/api?username=PriyankThakur3&show_icons=true&theme=material-palenight" alt="Github Stats" />
+    <img height="260em" src="https://streak-stats.demolab.com?user=Priyankthakur3&theme=material-palenight" alt="Github Streak Stats"/>
+    <img height="250em" src="https://github-readme-stats.vercel.app/api?username=PriyankThakur3&show_icons=true&theme=material-palenight" alt="Github Stats" />
 </div>
 </p>
 
 <p align="center">
-    <img height="200em" src="https://leetcard.jacoblin.cool/priyankthakur3?theme=dark&font=Ubuntu" alt="LeetCode Stats" />
+    <img height="250em" src="https://leetcard.jacoblin.cool/priyankthakur3?theme=dark&font=Ubuntu" alt="LeetCode Stats" />
 </p>
 
 ### :mortar_board: Education:
