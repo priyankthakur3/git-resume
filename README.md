@@ -23,7 +23,7 @@ Experienced data engineer and full-stack developer, holding a Master's in Comput
 </p>
 
 <div display="flex" justify-content= "space-between;">
-    <img height="200em" src="https://leetcard.jacoblin.cool/priyankthakur3?theme=dark&font=Ubuntu" alt="LeetCode Stats"/>
+    <img height="200em" src="https://leetcard.jacoblin.cool/pthakur2?theme=dark&font=Ubuntu" alt="LeetCode Stats"/>
 </div>
 </p>
 
